@@ -1,1 +1,1 @@
-# Giphy-APIhttps://mappdaddy.github.io/Giphy-API/
+https://mappdaddy.github.io/Giphy-API/
